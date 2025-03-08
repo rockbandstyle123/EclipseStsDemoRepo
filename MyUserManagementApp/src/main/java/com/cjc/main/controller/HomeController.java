@@ -15,5 +15,12 @@ public class HomeController {
 		return "Working Fine";
 		
 	}
+	
+	@GetMapping("/test-api2")    // http://localhost:9091/test-api
+	public String ontesttwo() {
+		
+		return "Working Fine";
+		
+	}
 
 }

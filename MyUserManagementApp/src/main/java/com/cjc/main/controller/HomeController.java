@@ -16,10 +16,10 @@ public class HomeController {
 		
 	}
 	
-	@GetMapping("/dummy-api")    // http://localhost:9091/test-api
+	@GetMapping("/test-api2")    // http://localhost:9091/test-api
 	public String ontesttwo() {
 		
-		return "Have a Great time";
+		return "Working Fine";
 		
 	}
 

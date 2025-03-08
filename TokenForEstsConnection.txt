@@ -1,7 +1,0 @@
-
-for connecting Git Remote Respository rockbandstyle123/EclipseStsDemoRepo 
-with Eclipse STS software.
-
-
-Git Token 
-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

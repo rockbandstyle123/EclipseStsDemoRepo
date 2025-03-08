@@ -22,5 +22,12 @@ public class HomeController {
 		return "Working Fine";
 		
 	}
+	
+	@GetMapping("/dummy-api")    // http://localhost:9091/test-api
+	public String ontestthree() {
+		
+		return "Have a great time";
+		
+	}
 
 }
